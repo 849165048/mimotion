@@ -7,19 +7,7 @@
 ![GitHub size](https://img.shields.io/github/repo-size/Ysnsn/mimotion?style=flat-square)
 </div>
 
-## 懒人必备（纯小白）我已经部署在云函数了
-
-  https://service-cunaufvn-1302033217.bj.apigw.tencentcs.com/release/xm?user=手机号&password=密码&step=步数
-
-
-### 把手机号和密码换成自己的就行了，每天点一下就开始刷了（点一下就行了看返回值，严禁滥用）
-
-
-## Github Actions 部署指南
-
-### 一、Fork 此仓库
-
-### 二、设置账号密码
+### 设置账号密码
 
 添加名为  **key**、**SCKEY**、**USER**、**PWD**、**STEP** 的变量，值分别为 **QQ酷推**、**server酱推送key（0关闭）**、 **账号（仅支持手机号）**、**密码**、**步数（0则为2w-3w之间随机 或自定义随机范围[20000-21000]）**
 
