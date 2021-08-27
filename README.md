@@ -21,5 +21,3 @@
 - 等 30 分钟后，在重新绑定需要同步的应用，即可继续使用刷步数
 - ⚠️⚠️：我个人亲测有效
 
-## star 趋势
-![](https://starchart.cc/Ysnsn/mimotion.svg)
