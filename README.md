@@ -1,12 +1,6 @@
 <div align="center"> 
 <h1 align="center">小米运动刷步数</h1>
 
-[![GitHub stars](https://img.shields.io/github/stars/Ysnsn/mimotion?style=flat-square)](https://github.com/Ysnsn/mimotion)
-[![GitHub forks](https://img.shields.io/github/forks/Ysnsn/mimotion?style=flat-square)](https://github.com/Ysnsn/mimotion/network)
-[![GitHub issues](https://img.shields.io/github/issues/Ysnsn/mimotion?style=flat-square)](https://github.com/Ysnsn/mimotion/issues)
-![GitHub size](https://img.shields.io/github/repo-size/Ysnsn/mimotion?style=flat-square)
-</div>
-
 ### 设置账号密码
 
 添加名为  **key**、**SCKEY**、**USER**、**PWD**、**STEP** 的变量，值分别为 **QQ酷推**、**server酱推送key（0关闭）**、 **账号（仅支持手机号）**、**密码**、**步数（0则为2w-3w之间随机 或自定义随机范围[20000-21000]）**
