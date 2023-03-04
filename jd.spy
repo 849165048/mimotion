@@ -21,6 +21,8 @@ js_config:
 - Container:
   - []
   Env: opencard_id
+  Env: opencard_addCart
+  Env: opencard_draw
   KeyWord:
   - - opencard_id
   - - opencard_addCart
