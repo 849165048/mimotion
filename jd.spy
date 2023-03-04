@@ -18,3 +18,14 @@ js_config:
   Script: jd_opencardDPLHTY.js
   TimeOut: 0
   Wait: 5
+- Container:
+  - []
+  Env: opencard_id
+  KeyWord:
+  - - opencard_id
+  - - opencard_addCart
+  - - opencard_draw
+  Name: 【开卡】 金币卡
+  Script: jd_opencardJBK.js
+  TimeOut: 0
+  Wait: 5
